@@ -1,0 +1,22 @@
+# For configuration options and examples, please see:
+# https://github.com/benphelps/homepage/wiki/Bookmarks
+
+- Developer:
+    - Github:
+        - abbr: GH
+          href: https://github.com/
+    - Gitlab:
+        - abbr: GL
+          href: https://gitlab.com/
+    - Gitlab GSS:
+        - abbr: GSS
+          href: https://gitlab.gss-sol.com/
+- Social:
+    - Reddit:
+        - abbr: RE
+          href: https://reddit.com/
+
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/
