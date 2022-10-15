@@ -43,12 +43,6 @@
         icon: "/icons/wifi-router.jpg"
         description: "192.168.1.x network management"
         href: "http://192.168.1.1"
-
-    - "Dynamic DNS":
-        icon: "https://www.dynu.com/content/images/logodynu.png"
-        description: "DNS management"
-        href: "https://www.dynu.com/en-US/ControlPanel"
-
     
 - Selfhost management:
     - "Portainer":
