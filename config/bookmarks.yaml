@@ -1,23 +1,23 @@
-# # For configuration options and examples, please see:
-# # https://github.com/benphelps/homepage/wiki/Bookmarks
+# For configuration options and examples, please see:
+# https://github.com/benphelps/homepage/wiki/Bookmarks
 
-# - Developer:
-#     - Github:
-#         - abbr: GH
-#           href: https://github.com/
-#     - Vercel:
-#         - abbr: VC
-#           href: https://vercel.com/dashboard
+- Developer:
+    - Github:
+        - abbr: GH
+          href: https://github.com/
+    - Vercel:
+        - abbr: VC
+          href: https://vercel.com/dashboard
 
-# - Extenal tools:
-#     - Dynamic DNS:
-#         - abbr: DDNS
-#           href: https://www.dynu.com/en-US/ControlPanel
-#     - Duck DNS:
-#         - abbr: DDNS
-#           href: https://www.duckdns.org/
+- Extenal tools:
+    - Dynamic DNS:
+        - abbr: DDNS
+          href: https://www.dynu.com/en-US/ControlPanel
+    - Duck DNS:
+        - abbr: DDNS
+          href: https://www.duckdns.org/
 
-# - Entertainment:
-#     - YouTube:
-#         - abbr: YT
-#           href: https://youtube.com/
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/

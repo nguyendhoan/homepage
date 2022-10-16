@@ -1,11 +1,11 @@
-# For configuration options and examples, please see:
-# https://github.com/benphelps/homepage/wiki/Information-Widgets
+# # For configuration options and examples, please see:
+# # https://github.com/benphelps/homepage/wiki/Information-Widgets
 
-- resources:
-    cpu: true
-    memory: true
-    disk: /
+# - resources:
+#     cpu: true
+#     memory: true
+#     disk: /
 
-- search:
-    provider: google
-    target: _blank
+# - search:
+#     provider: google
+#     target: _blank
