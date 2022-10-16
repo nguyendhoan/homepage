@@ -1,59 +1,58 @@
-# For configuration options and examples, please see:
-# https://github.com/benphelps/homepage/wiki/Services
+# # For configuration options and examples, please see:
+# # https://github.com/benphelps/homepage/wiki/Services
 
-- Applications:
-    - "Jenkins":
-        icon: "/icons/jenkins.png"
-        description: "CI/CD tools"
-        href: "https://hoannguyen.duckdns.org/"
+# - Applications:
+#     - "Jenkins":
+#         icon: "/icons/jenkins.png"
+#         description: "CI/CD tools"
+#         href: "https://hoannguyen.duckdns.org/"
 
-    - "Home assistant":
-        icon: "/icons/homeassitant.png"
-        description: "Quản lý thiết bị trong nhà" 
-        href: "https://ha-hoannguyen.freeddns.org/"
+#     - "Home assistant":
+#         icon: "/icons/homeassitant.png"
+#         description: "Quản lý thiết bị trong nhà" 
+#         href: "https://ha-hoannguyen.freeddns.org/"
 
-    - "ULBackup":
-        icon: "/icons/backup.png"
-        description: "Backup data service"
-        href: "http://192.168.0.117:55414/"
+#     - "ULBackup":
+#         icon: "/icons/backup.png"
+#         description: "Backup data service"
+#         href: "http://192.168.0.117:55414/"
 
-    - "File management":
-        icon: "/icons/file.png"
-        description: "Quản lý file share"
-        href: "http://192.168.0.117:8086"
+#     - "File management":
+#         icon: "/icons/file.png"
+#         description: "Quản lý file share"
+#         href: "http://192.168.0.117:8086"
 
-    - "Registry":
-        icon: "/icons/registry.png"
-        description: "Quản lý docker registry"
-        href: "http://192.168.0.117:85"
+#     - "Registry":
+#         icon: "/icons/registry.png"
+#         description: "Quản lý docker registry"
+#         href: "http://192.168.0.117:85"
 
-- Tools:
-     
-    - "VPN (wireguard)":
-        icon: "/icons/wireguard.png"
-        description: "VPN management"
-        href: "http://192.168.0.119:51821/"
+# - Tools:
+#     - "VPN (wireguard)":
+#         icon: "/icons/wireguard.png"
+#         description: "VPN management"
+#         href: "http://192.168.0.119:51821/"
     
-    - "Internal wifi router":
-        icon: "/icons/wifi-router.jpg"
-        description: "192.168.0.x network management"
-        href: "http://192.168.0.1"
+#     - "Internal wifi router":
+#         icon: "/icons/wifi-router.jpg"
+#         description: "192.168.0.x network management"
+#         href: "http://192.168.0.1"
     
-    - "Main wifi router":
-        icon: "/icons/wifi-router.jpg"
-        description: "192.168.1.x network management"
-        href: "http://192.168.1.1"
+#     - "Main wifi router":
+#         icon: "/icons/wifi-router.jpg"
+#         description: "192.168.1.x network management"
+#         href: "http://192.168.1.1"
     
-- Selfhost management:
-    - "Portainer":
-        icon: "/icons/portainer.png"
-        description: "Quản lý docker"
-        href: "https://192.168.0.117:9443/"
-    - "Rpi management":
-        icon: "/icons/rpi.png"
-        description: "Quản lý homelab servers"
-        href: "https://192.168.0.117:9090/"
-    - "Proxy management":
-        icon: "/icons/nginx_proxy.png"
-        description: "Quản lý proxy"
-        href: "http://192.168.0.117:81/"
+# - Selfhost management:
+#     - "Portainer":
+#         icon: "/icons/portainer.png"
+#         description: "Quản lý docker"
+#         href: "https://192.168.0.117:9443/"
+#     - "Rpi management":
+#         icon: "/icons/rpi.png"
+#         description: "Quản lý homelab servers"
+#         href: "https://192.168.0.117:9090/"
+#     - "Proxy management":
+#         icon: "/icons/nginx_proxy.png"
+#         description: "Quản lý proxy"
+#         href: "http://192.168.0.117:81/"
