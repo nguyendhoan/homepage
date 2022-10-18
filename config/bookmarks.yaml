@@ -11,13 +11,13 @@
 
 - Extenal tools:
     - Dynamic DNS:
-        - abbr: DDNS
+        - abbr: DNS
           href: https://www.dynu.com/en-US/ControlPanel
     - Duck DNS:
-        - abbr: DDNS
+        - abbr: DNS
           href: https://www.duckdns.org/
 
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
+- Online storage:
+    - Google drive:
+        - abbr: GD
+          href: https://drive.google.com/drive/u/0/my-drive
