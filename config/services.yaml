@@ -10,7 +10,7 @@
     - "Home assistant":
         icon: "/icons/homeassitant.png"
         description: "Quản lý thiết bị trong nhà" 
-        href: "https://ha-hoannguyen.freeddns.org/"
+        href: "https://home-hoannguyen.duckdns.org/"
 
     - "ULBackup":
         icon: "/icons/backup.png"
@@ -42,6 +42,11 @@
         icon: "/icons/wifi-router.jpg"
         description: "192.168.1.x network management"
         href: "http://192.168.1.1"
+    
+    - "Mail catcher":
+        # icon: "/icons/wifi-router.jpg"
+        description: "Tool hỗ trợ debug mail khi dev"
+        href: "https://mailhog.duckdns.org/"
     
 - Selfhost management:
     - "Portainer":
