@@ -15,28 +15,23 @@
     - "ULBackup":
         icon: "/icons/backup.png"
         description: "Backup data service"
-        href: "http://192.168.0.117:55414/"
+        href: "http://192.168.1.26:55414/"
 
     - "File management":
         icon: "/icons/file.png"
         description: "Quản lý file share"
-        href: "http://192.168.0.117:8086"
+        href: "http://192.168.1.26:8086"
 
     - "Registry":
         icon: "/icons/registry.png"
         description: "Quản lý docker registry"
-        href: "http://192.168.0.117:85"
+        href: "http://192.168.1.26:85"
 
 - Tools:
     - "VPN (wireguard)":
         icon: "/icons/wireguard.png"
         description: "VPN management"
-        href: "http://192.168.0.119:51821/"
-    
-    - "Internal wifi router":
-        icon: "/icons/wifi-router.jpg"
-        description: "192.168.0.x network management"
-        href: "http://192.168.0.1"
+        href: "http://192.168.1.10:51821/"
     
     - "Main wifi router":
         icon: "/icons/wifi-router.jpg"
@@ -52,12 +47,12 @@
     - "Portainer":
         icon: "/icons/portainer.png"
         description: "Quản lý docker"
-        href: "https://192.168.0.117:9443/"
+        href: "https://192.168.1.26:9443/"
     - "Rpi management":
         icon: "/icons/rpi.png"
         description: "Quản lý homelab servers"
-        href: "https://192.168.0.117:9090/"
+        href: "https://192.168.1.26:9090/"
     - "Proxy management":
         icon: "/icons/nginx_proxy.png"
         description: "Quản lý proxy"
-        href: "http://192.168.0.117:81/"
+        href: "http://192.168.1.26:81/"
