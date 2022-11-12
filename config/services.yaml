@@ -38,10 +38,10 @@
         description: "192.168.1.x network management"
         href: "http://192.168.1.1"
     
-    - "Mail catcher":
+    - "Uptime kuma":
         # icon: "/icons/wifi-router.jpg"
-        description: "Tool hỗ trợ debug mail khi dev"
-        href: "https://mailhog.duckdns.org/"
+        description: "Giám sát service web"
+        href: "http://192.168.1.10:3001/"
     
 - Selfhost management:
     - "Portainer":
