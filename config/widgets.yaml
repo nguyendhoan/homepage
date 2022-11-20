@@ -1,16 +1,7 @@
 # # For configuration options and examples, please see:
 # # https://github.com/benphelps/homepage/wiki/Information-Widgets
 
-# - resources:
-#     cpu: true
-#     memory: true
-#     disk: /
-
-# - search:
-#     provider: google
-#     target: _blank
-widget:
-    type: npm
-    url: http://192.168.1.26:81/
-    username: nguyendhoan@gmail.com
-    password: Dung140182
+- resources:
+    cpu: true
+    memory: true
+    # disk: /
