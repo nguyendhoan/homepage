@@ -39,7 +39,7 @@
         href: "http://192.168.1.1"
     
     - "Uptime kuma":
-        # icon: "/icons/wifi-router.jpg"
+        icon: "/icons/kuma.svg"
         description: "Giám sát service web"
         href: "http://192.168.1.10:3001/"
     
