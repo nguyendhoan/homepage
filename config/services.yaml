@@ -5,12 +5,12 @@
     - "Jenkins":
         icon: "/icons/jenkins.png"
         description: "CI/CD tools"
-        href: "https://hoannguyen.duckdns.org/"
+        href: "http://192.168.1.10:8080/"
 
     - "Home assistant":
         icon: "/icons/homeassitant.png"
         description: "Quản lý thiết bị trong nhà" 
-        href: "https://home-hoannguyen.duckdns.org/"
+        href: "http://192.168.1.10:8123/"
 
     - "ULBackup":
         icon: "/icons/backup.png"
